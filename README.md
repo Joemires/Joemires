@@ -40,8 +40,8 @@
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 [![Docker Badge](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&labelColor=black&logo=docker&logoColor=0db7ed)](#)
 [![AWS Badge](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=FF9900)](#)
-[![Git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&labelColor=black&logo=heroku&logoColor=430098)](#)
+[![Git Badge](https://img.shields.io/badge/-git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
+[![Heroku Badge](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&labelColor=black&logo=heroku&logoColor=430098)](#)
 
 <br/>
 
