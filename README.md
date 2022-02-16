@@ -20,17 +20,29 @@
 
 ## 🚀 Languages and Tools:
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;"> 
-    <a href="#"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/php-logo.png"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/fa314a/laravel.png"/> </a> 
-    <a href="https://github.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github-2.png"/> </a>
-    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
+<!-- <div align="center" style="display: flex; justify-content: center; gap: 20px;"> 
+    <a href="#"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png"> </a>
+    <a href="#"> <img src="https://img.shields.io/badge/-PHP-474ABA?style=for-the-badge&labelColor=black&logo=php&logoColor=474ABA"> </a>
+    <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-Laravel-F05340?style=for-the-badge&labelColor=black&logo=laravel&logoColor=F05340"> </a>
+    <a href="https://github.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github-2.png"> </a>
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://maxcdn.icons8.com/Color/PNG/512/Logos/google_cloud_platform-512.png" height="50"> </a>
-    <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-512.png">
+    <a href="#"> <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-512.png"> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
-</div>
+</div> -->
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+[![PHP Badge](https://img.shields.io/badge/-PHP-474ABA?style=for-the-badge&labelColor=black&logo=php&logoColor=474ABA)](#)
+[![PHP Badge](https://img.shields.io/badge/-Laravel-F05340?style=for-the-badge&labelColor=black&logo=laravel&logoColor=F05340)](#)
+[![CodeIgniter Badge](https://img.shields.io/badge/-Codeigniter-EF4223?style=for-the-badge&labelColor=black&logo=codeigniter&logoColor=EF4223)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![jQuery Badge](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0769AD)](#)
+[![Alpine.JS Badge](https://img.shields.io/badge/-Alpine.JS-8BC0D0?style=for-the-badge&labelColor=black&logo=alpine.js&logoColor=8BC0D0)](#)
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![Docker Badge](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&labelColor=black&logo=docker&logoColor=0db7ed)](#)
+[![AWS Badge](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=FF9900)](#)
+[![Git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&labelColor=black&logo=heroku&logoColor=430098)](#)
+
 <br/>
 
 <p align="center">
