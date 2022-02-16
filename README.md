@@ -20,27 +20,15 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="center"> 
-    <a href="http://www.cplusplus.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+<div align="center" style="display: flex; justify-content: center; gap: 20px;"> 
+    <a href="#"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/php-logo.png"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/fa314a/laravel.png"/> </a> 
     <a href="https://github.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github-2.png"/> </a>
-    <a href="http://www.opencv.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/opencv.png"/>
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://maxcdn.icons8.com/Color/PNG/512/Logos/google_cloud_platform-512.png" height="50"> </a>
     <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-512.png">
-    <a href="http://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-    <img height="45" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
-    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png">
-    <img height="30" src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg">
-    <img height="30" src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg">
-    <img height="30" src="https://matplotlib.org/_static/logo2.svg">
-
-
-    
-</p>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
+</div>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
@@ -74,18 +62,18 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<a href="mailto:bestnyah7@gmail.com">
+<a href="mailto:joemires20@yahoo.com">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<a href="https://twitter.com/Bee_Nyah_">
+<a href="https://twitter.com/joemires">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-  <a href="https://medium.com/@bestnyah7">                                                                               
+  <a href="https://medium.com/@joemires">                                                                               
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <a href="https://wa.me/+2348081073620">
+  <a href="https://wa.me/+2348135247490">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
 
@@ -97,7 +85,7 @@
 
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/joemires/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=joemires">
 </a>
 <a href="https://github.com/joemires?tab=followers"><img src="https://img.shields.io/github/followers/joemires?label=Followers&style=social" alt="GitHub Badge"></a>
